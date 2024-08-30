@@ -2,7 +2,7 @@
 
 In this Python Reinforcement Learning Tutorial series we teach an AI to play Snake! We build everything from scratch using Pygame and PyTorch. The tutorial consists of 4 parts:
 
-You can find all tutorials on my channel: [Playlist](https://www.youtube.com/playlist?list=PLqnslRFeH2UrDh7vUmJ60YrmWd64mTTKV)
+You can find all tutorials on my channel: [Playlist](https://github.com/Ysmayylow01))
 
 - Part 1: I'll show you the project and teach you some basics about Reinforcement Learning and Deep Q Learning.
 - Part 2: Learn how to setup the environment and implement the Snake game.
